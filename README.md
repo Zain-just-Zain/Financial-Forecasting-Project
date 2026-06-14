@@ -51,19 +51,7 @@ Then several scenarios were created:
 
 ### Cost of Goods Sold (COGS)
 
-At first, I realized something important:
-
-> Revenue and COGS cannot be separated.
-
-If revenue increases, COGS should also increase.
-
-Because of that, I stopped using:
-
-* revenue up + COGS down
-
-and replaced it with a more realistic approach using:
-
-* Gross Profit Margin (GPM)
+At first, I realized something important: Revenue and COGS cannot be separated. If revenue increases, COGS should also increase. Because of that, I stopped using _evenue up + COGS down_ and replaced it with a more realistic approach using _Gross Profit Margin (GPM)._
 
 Historical margins were used as the base assumption to estimate future COGS behavior.
 
@@ -99,7 +87,7 @@ The dashboard includes:
 
 One thing I learned from this project:
 
-> Building the forecast itself is not the hardest part.
+_Building the forecast itself is not the hardest part._
 
 The difficult part is:
 
